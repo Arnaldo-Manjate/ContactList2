@@ -1,0 +1,99 @@
+    [
+        {
+            "Name" : "Arnaldo",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "pp.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },                     {
+            "Name" : "Bob",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "me2.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },             {
+            "Name" : "Tom",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "pp.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },                     {
+            "Name" : "Beston",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "me2.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },             {
+            "Name" : "Siya",
+            "Lastname" : "Mhlanga",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "pp.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },                     {
+            "Name" : "Dave",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "me2.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },             {
+            "Name" : "Nick",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "pp.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },                     {
+            "Name" : "Fanele",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "me2.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },             {
+            "Name" : "Sethu",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "pp.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },                     {
+            "Name" : "Naomi",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "me2.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },             {
+            "Name" : "Tevin",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "pp.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        },                     {
+            "Name" : "Neymar",
+            "Lastname" : "Manjate",
+            "Age" : 26,
+            "Bio" : " Arnaldo is Lorem ipsum dolor sit amet aspernatur.",
+            "Img" : "me2.jpg",
+            "Img2" : "me2.jpg",
+            "Detail" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi quaerat quisquam id nesciunt recusandae. Explicabo odio nemo unde cumque blanditiis atque nulla obcaecati, aliquam animi quasi reiciendis voluptas sint id facilis harum qui! Vitae excepturi cupiditate voluptas dolore laudantium consectetur labore hic. Exercitationem consequuntur, autem eos qui laudantium optio delectus quod, inventore porro ad reiciendis necessitatibus illum omnis vel?"
+        }
+    ]

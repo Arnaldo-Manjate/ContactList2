@@ -1,0 +1,33 @@
+  <!-- Container -->
+  <div class="container">
+    <div class="search-container">
+        <!-- Heading -->
+        <h1>Contact List</h1>
+        <!-- Search Box -->
+        <div class="search-content">
+            <label for="search">Search</label><br>
+            <input type="text" name="" ng-model="query" id="search">
+        </div>
+        
+    </div>
+
+    <!-- ContactDiv   -->
+    <div class="contact-div" >
+        <ul ng-repeat="item in contacts | filter: query | orderBy : Name">
+            <li class="">
+                <a href="#/details/{{ contacts.indexOf(item)}}">
+                    <div class="item-container">
+                        <div class="image-container">
+                            <img ng-src="img/{{ item.Img2 }}" alt="" >
+                        </div>
+                        <div class="contact-info">
+                            <h3>{{ item.Name + " " + item.Lastname }}</h3>
+                            <h5>{{ item.Bio }}</h5>
+                        </div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+   
+</div> <!-- End of Main Container-->

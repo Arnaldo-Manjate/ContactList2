@@ -1,0 +1,18 @@
+
+    <!-- Jumbotron -->
+    <div class="jumbotron">
+        <h1> {{ details[idx].Name}} </h1><br>
+        <h1> {{  details[idx].Lastname }}</h1>
+    </div>
+    <div class="info-con">
+        <h5>{{ details[idx].Bio }}</h5>
+        <div class="navigation">
+            <a href="#/details/{{prev}}">&lt;</a>
+            <a href="#/">&bull;</a>
+            <a href="#/details/{{next}}">&gt;</a>
+        </div>
+    </div>
+    <div class="boi-con">
+        <img src="../img/{{details[idx].Img2}}" alt="">
+        <p>{{ details[idx].Detail }} </p>
+    </div>
